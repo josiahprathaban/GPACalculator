@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<courses>
+    <SETU>
+        <level_1>
+            <course>
+                <code>SENG 11213</code>
+                <name>Fundamentals of Computing</name>
+                <credit>3</credit>
+                <type>C</type>
+            </course>
+            <course>
+                <code>SENG 11223</code>
+                <name>Programming Concepts</name>
+                <credit>3</credit>
+                <type>C</type>
+            </course>
+            <course>
+                <code>SENG 11232</code>
+                <name>Engineering Foundation</name>
+                <credit>2</credit>
+                <type>C</type>
+            </course>
+            <course>
+                <code>SENG 11243</code>
+                <name>Statistics </name>
+                <credit>3</credit>
+                <type>C</type>
+            </course>
+            <course>
+                <code>SENG 12213</code>
+                <name>Data Structures and  Algorithms</name>
+                <credit>3</credit>
+                <type>C</type>
+            </course>
+            <course>
+                <code>SENG 12223</code>
+                <name>Database Design and Development</name>
+                <credit>3</credit>
+                <type>C</type>
+            </course>
+            <course>
+                <code>SENG 12233</code>
+                <name>Object Oriented Programming</name>
+                <credit>3</credit>
+                <type>C</type>
+            </course>
+            <course>
+                <code>SENG 12242</code>
+                <name>Management for Software Engineering I</name>
+                <credit>2</credit>
+                <type>C</type>
+            </course>
+            <course>
+                <code>PMAT 11212</code>
+                <name>Discrete Mathematics for Computing I</name>
+                <credit>2</credit>
+                <type>C</type>
+            </course>
+            <course>
+                <code>PMAT 12212</code>
+                <name>Discrete Mathematics for Computing II</name>
+                <credit>2</credit>
+                <type>C</type>
+            </course>
+            <course>
+                <code>DELT 11212</code>
+                <name>English for Professionals</name>
+                <credit>2</credit>
+                <type>C</type>
+            </course>
+            <course>
+                <code>DELT 12212</code>
+                <name>Communication Skills for Professionals</name>
+                <credit>2</credit>
+                <type>C</type>
+            </course>
+        </level_1>
+    </SETU>
+</courses>
